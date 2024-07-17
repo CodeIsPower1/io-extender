@@ -1,0 +1,11 @@
+DebugConfig/
+Listings/
+Objects/
+.vscode
+EventRecorderStub.scvd
+JLinkLog.txt
+JLinkSettings.ini
+*.uvguix.*
+
+!*.uvoptx
+!*.uvprojx
